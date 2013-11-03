@@ -1,0 +1,4 @@
+site :none
+
+metadata
+cookbook "environment-version", path: "../"
